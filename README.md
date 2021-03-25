@@ -23,7 +23,7 @@ Dark by DM, a family of dark themes for different websites on the internet, this
 [📥Repository](https://github.com/DM164/Dark-by-DM)
 
 ```javascript
-let updatendContent = "Cool new projects"
+let updatedContent = "Cool new projects"
 
 function addProjects(){
   if (DM164.wantToUpdateProfile()){
