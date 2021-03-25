@@ -3,11 +3,10 @@
 I'm a young developer, still learning lots of new stuff and in my free time I code stuff and love to share my work with the community.
 I work mostly with webtechnologies and web oriented languages.
 Languages I use:
-- Javascript
-- Java
-- Python
-- C/C++ 
-- C#
+
+```javascript
+let knownLanguages = ['Javascript', 'Java', 'Python', 'C/C++', 'C#']
+```
 
 ## 📂Projects
 
