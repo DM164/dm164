@@ -4,7 +4,7 @@ I work mostly with webtechnologies and web oriented languages.
 Languages I use:
 
 ```javascript
-let knownLanguages = ['Javascript', 'Java', 'Python', 'C/C++', 'C#']
+let knownLanguages = ['Javascript', 'Java', 'Python', 'C/C++', 'C#', 'Dart/Flutter']
 ```
 
 ## 📂Projects
