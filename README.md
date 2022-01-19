@@ -20,16 +20,7 @@ Dark by DM, a family of dark themes for different websites on the internet, this
 [🌍Website](https://darkbydm.now.sh)
 [📥Repository](https://github.com/DM164/Dark-by-DM)
 
-```javascript
-let updatedContent = "Cool new projects"
 
-function addProjects(){
-  if (DM164.wantToUpdateProfile()){
-    document.getElementById('Readme.txt').innerHTML = updatedContent
-  }
-}
-// Basically what I'm trying to say: I'm gonna continue my profile description later on
-```
 
 <!--
 **DM164/dm164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
