@@ -9,6 +9,11 @@ let knownLanguages = ['Javascript', 'Java', 'Python', 'C/C++', 'C#', 'Dart/Flutt
 
 ## 📂Projects
 
+### 💻Portfolio
+This is my portfolio, it showcases some projects, skills and certificates I've acquired over the years :)
+
+[🌍Website](https://denismignanelli.vercel.app)
+
 ### 🌸Forget Me Not
 Forget Me Not is a desktop application that helps you keep track of all your series, you can add them to your watching later list, currently watching or even finished ones so you never forget the title of that amazing show you watched years ago. That's not all though, Forget Me Not helps you keep in touch with the latest news about shows you watch, lets you take notes, show your friends on Discord what you are watching and lets you see what your friends have on their lists and much more!
 
